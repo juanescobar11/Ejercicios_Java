@@ -1,0 +1,16 @@
+
+a
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(åëŸ&8ÿİ¸š„/
+b
+java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(£ıº 8ÿİ¸š„/
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(úÍŞŞ8ÿİ¸š„/
+l
+java:S1192"OUse already-defined constant 'COLOR_DEF' instead of duplicating its value here.(ÔÎ ı8ÿİ¸š„/
+>	java:S131B""Add a default case to this switch.(¡ùÉà8ÿİ¸š„/
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‘½¡üÿÿÿÿ8Ï ·š„/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£¢Ñ
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(±¹®8ÿİ¸š„/
+U
+java:S1197"8Move the array designator from the variable to the type.(ÔÎ ı8ÿİ¸š„/

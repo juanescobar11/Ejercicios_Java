@@ -1,0 +1,12 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(í©´ý8™¶Äïƒ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£Ž¢Ñ
+a
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(®’žY8 …¸’„/
+Z
+java:S1117f"8Rename "sexo" which hides the field declared at line 13.(½ÞÀªúÿÿÿÿ8‹úµ’„/
+K
+java:S2140-")Use "java.util.Random.nextInt()" instead.( £¾‹øÿÿÿÿ8‹úµ’„/
+o	java:S116"NRename this field "DNI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èüöšýÿÿÿÿ8ùµ¡’„/
+U
+java:S11976"8Move the array designator from the variable to the type.(ì§­¼8‹úµ’„/

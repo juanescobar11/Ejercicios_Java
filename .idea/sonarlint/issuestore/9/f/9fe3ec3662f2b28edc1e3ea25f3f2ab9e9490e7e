@@ -1,0 +1,13 @@
+
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8®·“åƒ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÙÄ–¶úÿÿÿÿ8Â÷•åƒ/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(«»üv8öæ¢åƒ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£Ž¢Ñ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ç¢°ôüÿÿÿÿ8üö¡åƒ/
+A
+java:S1659"$Declare "texto2" on a separate line.(ìö’ñ8„¸—åƒ/
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á‰‡×8®·“åƒ/
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(õ¥þ‹8®·“åƒ/
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ø¢Ë¤8ñúˆåƒ/

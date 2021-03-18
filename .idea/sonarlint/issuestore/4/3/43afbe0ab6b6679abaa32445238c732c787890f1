@@ -1,0 +1,15 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(îÀÃÜûÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Îü„ß8ÇœÎ¶ƒ/
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á‰‡×8È¥Š¶ƒ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(§¿İÿÿÿÿÿ8°ßÎ¶ƒ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(§¿İÿÿÿÿÿ8§Ï¶ƒ/
+q
+java:S1192"TDefine a constant instead of duplicating this literal "Este dÃ­a se labora" 5 times.(Îü„ß8şôÔ¶ƒ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Îü„ß8¬¡Å¶ƒ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£¢Ñ
+>	java:S131""Add a default case to this switch.(ç™Œö8Å¼Ä¶ƒ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Îü„ß8ÇœÎ¶ƒ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Öã³¸8¢â«¶ƒ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Îü„ß8ÇœÎ¶ƒ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Îü„ß8…ÁÎ¶ƒ/
